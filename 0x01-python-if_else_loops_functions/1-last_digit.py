@@ -13,3 +13,4 @@ elif n == 0:
    str = "and is 0"
 else:
    str = "and is less than 6 and not 0"
+   print("Last digit of {:d} is {:d} {:s}".format(number, n, str))
