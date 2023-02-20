@@ -1,6 +1,7 @@
 #!/usr/bin/python3
+"""number_of_lines
+"""
 
-"""Defines a text file line-counting function."""
 
 
 def number_of_lines(filename=""):
