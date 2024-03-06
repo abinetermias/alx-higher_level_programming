@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-
-'''task 05 - 5. Geometry module'''
+"""BaseGeometry class Module"""
 
 
 class BaseGeometry():
-        '''class BaseGeometry'''
-            pass
+    """BaseGeometry empty class"""
+    pass
